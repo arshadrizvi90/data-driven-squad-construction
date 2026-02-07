@@ -7,8 +7,6 @@
 
 A comprehensive data science project that applies machine learning and optimization techniques to construct the inaugural 25-man squad for Durham Top Dogs F.C. This project demonstrates a modern "Moneyball" approach to football management, replacing market speculation with empirical evidence.
 
-**Team 41C**: Arshad Rizvi, Gaurang Agrawal, Sawaiz Fatar, Skylar Qiu, Marwa Bouabid  
-**Program**: MQM 2025 - Data Science For Business
 
 ## Key Features
 
