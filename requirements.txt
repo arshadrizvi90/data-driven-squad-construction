@@ -1,0 +1,33 @@
+# R Package Dependencies for Football Squad Construction Project
+# Install these packages before running the analysis
+
+# Core Data Manipulation
+tidyverse     # Meta-package including dplyr, ggplot2, tidyr, readr, etc.
+dplyr         # Data manipulation
+readr         # Read rectangular data
+
+# Data Cleaning
+janitor       # Clean column names and data
+
+# Machine Learning
+caret         # Classification and Regression Training
+randomForest  # Random Forest algorithm
+
+# Optimization
+lpSolve       # Integer Linear Programming solver
+
+# Visualization
+ggplot2       # Data visualization (included in tidyverse)
+
+# Reporting
+knitr         # Dynamic report generation
+
+# Additional Utilities
+magrittr      # Pipe operators
+
+# Installation Instructions:
+# Run this in R console:
+# install.packages(c("tidyverse", "janitor", "readr", "caret", "randomForest", "knitr", "dplyr", "lpSolve"))
+
+# Or run:
+# source("install_packages.R")
