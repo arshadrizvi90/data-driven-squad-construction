@@ -210,9 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- **Course**: Data Science For Business, Duke MQM Program
 - **Dataset**: EA Sports FIFA 19 Complete Player Dataset
-- **Team Members**: Arshad Rizvi, Gaurang Agrawal, Muhammad Sawaiz Fatar, Zhiyun (Skylar) Qiu, Marwa Bouabid
 
 ---
 
